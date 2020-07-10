@@ -4,7 +4,6 @@
 ## 环境
 ### 本项目采用Ubuntu20.04系统，按理说应该支持ubuntu16.04及以上版本。深度学习环境：为了避免环境冲突，我用anaconda建立了两个虚拟环境，一个用于octopus项目，一个用于ocotopus项目所需的输入得人体图像分割项目，详情请见：https://github.com/Engineering-Course/CIHP_PGN
 ## Installation
-直接克隆该仓库
-···
-git clone https://github.com/zhumorui/2d_body_reconstruction
-···
+~~~
+git clone https://github.com/zhumorui/3d_body_reconstruction.git
+~~~
